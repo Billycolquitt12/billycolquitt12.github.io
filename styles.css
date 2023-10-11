@@ -3,6 +3,16 @@ background: #03e3fc;
 font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-color: #adadad;
+color: #e8e8e8;
 text-align: center;
+}
+.assign {
+display: flex;
+padding: 10px;
+margin: 10px;
+background: #747575;
+}
+.assign img {
+width: 200px;
+padding: 10px;
 }
